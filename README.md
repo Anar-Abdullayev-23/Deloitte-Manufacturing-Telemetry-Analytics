@@ -1,10 +1,7 @@
-Selamlar Lord Anar! Deloitte projen için GitHub'da profesyonel duracak, teknik derinliği olan ve "insan" tarafından yazılmış gibi duran o README taslağını hazırladım.
 
-İşte GitHub repository'ne yapıştırabileceğin format:
-Manufacturing Telemetry Analytics & Dashboard Design (Deloitte Simulation)
 OVERVIEW
 
-This project was completed as part of the Deloitte Australia Data Analytics Job Simulation. The goal was to transform raw manufacturing telemetry data into actionable business insights using data modeling and advanced visualization techniques in Tableau.
+    This project was completed as part of the Deloitte Australia Data Analytics Job Simulation. The goal was to transform raw manufacturing telemetry data into actionable business insights using data modeling and advanced visualization techniques in Tableau.
 
 BUSINESS UNDERSTANDING
 
