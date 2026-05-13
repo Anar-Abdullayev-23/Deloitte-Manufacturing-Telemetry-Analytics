@@ -5,6 +5,7 @@ Manufacturing Telemetry Analytics & Dashboard Design (Deloitte Simulation)
 OVERVIEW
 
 This project was completed as part of the Deloitte Australia Data Analytics Job Simulation. The goal was to transform raw manufacturing telemetry data into actionable business insights using data modeling and advanced visualization techniques in Tableau.
+
 BUSINESS UNDERSTANDING
 
     Problem: Identifying operational bottlenecks and high machine failure rates across global manufacturing plants.
