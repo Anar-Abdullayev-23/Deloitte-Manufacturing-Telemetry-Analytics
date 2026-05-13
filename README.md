@@ -5,9 +5,9 @@ OVERVIEW
 
 BUSINESS UNDERSTANDING
 
-    Problem: Identifying operational bottlenecks and high machine failure rates across global manufacturing plants.
+- Problem: Identifying operational bottlenecks and high machine failure rates across global manufacturing plants.
 
-    Stakeholders: Supply Chain Managers and Operations Directors seeking to optimize maintenance schedules and reduce production losses.
+- Stakeholders: Supply Chain Managers and Operations Directors seeking to optimize maintenance schedules and reduce production losses.
 
 DATA UNDERSTANDING
 
