@@ -1,13 +1,13 @@
 
 OVERVIEW
 
-- This project was completed as part of the Deloitte Australia Data Analytics Job Simulation. The goal was to transform raw manufacturing telemetry data into actionable business insights using data modeling and advanced visualization techniques in Tableau.
+    This project was completed as part of the Deloitte Australia Data Analytics Job Simulation. The goal was to transform raw manufacturing telemetry data into actionable business insights using data modeling and advanced visualization techniques in Tableau.
 
 BUSINESS UNDERSTANDING
 
-- Problem: Identifying operational bottlenecks and high machine failure rates across global manufacturing plants.
+    Problem: Identifying operational bottlenecks and high machine failure rates across global manufacturing plants.
 
-- Stakeholders: Supply Chain Managers and Operations Directors seeking to optimize maintenance schedules and reduce production losses.
+    Stakeholders: Supply Chain Managers and Operations Directors seeking to optimize maintenance schedules and reduce production losses.
 
 DATA UNDERSTANDING
 
